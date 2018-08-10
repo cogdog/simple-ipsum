@@ -16,7 +16,7 @@ A  lorem ipsum generator w/o any style at all, so you can work it into your own 
 
 Why not make your own? I slapped this together for my own purposes.
 
-[Check it out(https://cogdog.github.io/simple-ipsum/)
+[Check it out](https://cogdog.github.io/simple-ipsum/)
 
 For a prettier ones see [Bicycle Ipsum](https://cogdog.github.io/bicycle-ipsum/) made from bike trail descriptions as well as [CC IP-SUM](https://cogdog.github.io/cc-ipsum/) for filler made from the text of Creative Commons licenses.
 
